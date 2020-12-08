@@ -1,5 +1,3 @@
-![image-20201208134718501](/Users/chenjia/Library/Application Support/typora-user-images/image-20201208134718501.png)
-
 # 1. What is CEP? 
 
 CEP = Crypto ETF Protocol, that is, cryptocurrency ETF investment protocol. This is a cryptocurrency ETF investment agreement based on DeFi-based technology and concepts that realize liquidity mining. CEP operates in a decentralized manner, and the community has the governance power of CEP. At the same time, CEP will have a low threshold and facilitate participation. Everyone can use CEP to invest in the cryptocurrency market no matter when and where.
